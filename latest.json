@@ -1,13 +1,13 @@
 {
-  "version": "0.3.0-beta.32",
-  "date": "2026-11-06",
-  "title": "Intelitherm ESP S3 PLUS Energy Monitor 0.3.0-beta.32",
-  "notes": "firmware/v0.3.0-beta.32/NOTAS.md",
+  "version": "0.3.0-beta.33",
+  "date": "2026-11-07",
+  "title": "Intelitherm ESP S3 PLUS Energy Monitor 0.3.0-beta.33",
+  "notes": "firmware/v0.3.0-beta.33/NOTAS.md",
   "files": {
     "solar_monitor.ino.bin": {
-      "path": "firmware/v0.3.0-beta.32/solar_monitor.ino.bin",
-      "size": 1960224,
-      "sha256": "269e389c9e18760398dbbefdb5b86deb94314a785de4783d7203511144339940"
+      "path": "firmware/v0.3.0-beta.33/solar_monitor.ino.bin",
+      "size": 1960496,
+      "sha256": "36a163a405b27f87f832e51a3da2ad1d4cee735e7f1099937edf531a2a78872a"
     }
   }
 }
